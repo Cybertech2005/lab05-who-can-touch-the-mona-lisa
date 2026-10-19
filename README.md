@@ -89,7 +89,6 @@ A junior developer joins the museum's digital team. They should be able to **loo
 - **Policy only covers its scope.** The VM form defaulted to a *new* resource group, outside the policy's scope, where the policy would not have applied. I caught it and switched back to `rg-lab05-gov-jaden`. A leftover empty resource group from that form needed cleanup.
 - **No green "validation passed" banner** on the final VM review page, but the Create button was enabled and the policy error was gone. I did not create the VM.
 - **Propagation delay.** The policy took a while (roughly 10 to 30 minutes) to start enforcing.
-- **Budget differs from the lab's name.** I named it `Monthly-Museum-Scan-Budget` to fit the story instead of `Monthly-Lab-Budget`.
 - **Everything was deleted** afterward to avoid cost.
 
 ## Out of scope
