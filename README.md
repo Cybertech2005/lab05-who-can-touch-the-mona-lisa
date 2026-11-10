@@ -4,6 +4,9 @@ Week 5 of my Azure portfolio. A **fictional** art museum wants to scan and proce
 
 > **Scope note:** fictional scenario, built in a personal Azure subscription, all resources deleted afterward. This is a governance exercise, not a production deployment.
 
+## Walkthrough
+
+[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/32c8354eaaa949e783428c56e2830113)
 ## The story
 
 A junior developer joins the museum's digital team. They should be able to **look** at the collection's cloud resources, not change them. Nobody should be able to launch an oversized, expensive VM by accident. And finance wants a warning before the monthly bill gets out of hand.
