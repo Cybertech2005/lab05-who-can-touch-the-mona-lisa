@@ -6,7 +6,7 @@ Week 5 of my Azure portfolio. A **fictional** art museum wants to scan and proce
 
 ## Walkthrough
 
-[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/32c8354eaaa949e783428c56e2830113)
+[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/28b7bb9ecdf24c2a8c4c1f8ba7f5ff43)
 ## The story
 
 A junior developer joins the museum's digital team. They should be able to **look** at the collection's cloud resources, not change them. Nobody should be able to launch an oversized, expensive VM by accident. And finance wants a warning before the monthly bill gets out of hand.
